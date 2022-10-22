@@ -5,7 +5,3 @@ Bootstrap ile yapılmış bir proje.
 <h2> Screen Gif</h2>
 
 ![](proje.gif)
-# bootstrap
-# bootstrap
-# bootstrapodev
-# bootstrapodev
